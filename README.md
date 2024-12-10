@@ -32,12 +32,6 @@ npm install
 
 ---
 
-## Prerequisites
-- [Node.js](https://nodejs.org/) installed on your system.
-- Basic understanding of using the terminal or command prompt.
-
----
-
 ## Usage
 
 1. Place the image you want to resize in the root folder.
