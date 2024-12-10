@@ -39,10 +39,3 @@ npm install
 2. Run the script by using the following command in your terminal:
    ```bash
    node index.js
-   
-Follow the prompts:
-
-Enter the filename of the image (e.g., example.png). 
-Enter the desired width (in pixels).
-Enter the desired height (in pixels).
-The resized image will be saved in the images folder with the name format resized-[width]x[height].png.
